@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Farhan
-- 👀 I’m interested in Artificial Intelligence / Machine Learning / Healthcare IT
+- 👀 My research interests are Artificial Intelligence / Machine Learning / Healthcare IT
 - 🌱 I’m currently learning Ph.D (Healthcare IT/AI)
-- 💞️ I’m looking to collaborate on AI/Machine Learning
+- 💞️ I’m looking to collaborate on AI/Machine Learning for healthcare data analysis
 - 📫 How to reach me mfarhan166@gmail.com
 
 <!---
