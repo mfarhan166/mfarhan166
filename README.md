@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Farhan
-- 👀 My research interests are Artificial Intelligence / Machine Learning / Healthcare IT
-- 🌱 I’m currently learning Ph.D (Healthcare IT/AI)
-- 💞️ I’m looking to collaborate on AI/Machine Learning for healthcare data analysis
+- 👀 My research interests are Machine Learning, Deep Learning in Healthcare
+- 🌱 I have completed my Ph.D. in Deep Learning for Electrocardiogram Signal Analysis
+- 💞️ I’m looking to collaborate on role of Artificial Intelligence for healthcare data analysis
 - 📫 How to reach me mfarhan166@gmail.com
 
 <!---
